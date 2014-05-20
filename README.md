@@ -1,4 +1,7 @@
-emily_test
+# README for emily_test repository
 ==========
 
-GitHub Foundations example repo for training
+## Objectives for Repository
+ 
+* Learn about using GitHub.com
+* Understand local versus remote repositories
